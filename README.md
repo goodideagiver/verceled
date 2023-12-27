@@ -2,11 +2,7 @@
 
 The best minimal dark theme for VSCode with Vercel color palette
 
-![Preview](/previews/ts-preview.png)
-
-![Preview](/previews/json-preview.png)
-
-![Preview](/previews/rust-preview.png)
+![Preview](/previews/react.png)
 
 ## Install
 
@@ -22,4 +18,4 @@ To override this (or any other) theme in your personal config file, follow [the 
 
 ## Disclaimer
 
-This theme is inspired by [Vercel](https://vercel.com) and I don't have any relevent experience building themes so you may enounter some bugs. If you do, please open an issue and I'll try to fix it as soon as possible.
+This theme is inspired by [Vercel](https://vercel.com) and I used [Vercel theme by triyanox](https://github.com/triyanox/vercel-theme) as a base.

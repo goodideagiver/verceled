@@ -1,9 +1,9 @@
 {
-  "name": "vercel-theme",
-  "displayName": "Vercel Theme",
-  "description": "A minimal theme based on the vercel website color palette",
-  "version": "1.0.3",
-  "publisher": "achaq",
+  "name": "verceled-theme",
+  "displayName": "Verceled Theme",
+  "description": "Color palette based on vercel docs",
+  "version": "1.0.0",
+  "publisher": "purpleblack",
   "icon": "icon.png",
   "license": "MIT",
   "engines": {
@@ -24,15 +24,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/triyanox/vercel-theme"
+    "url": "https://github.com/goodideagiver/verceled"
   },
   "bugs": {
-    "url": "https://github.com/triyanox/vercel-theme/issues"
+    "url": "https://github.com/goodideagiver/verceled/issues"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Vercel Theme",
+        "label": "Verceled Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Vercel Theme-color-theme.json"
       }
