@@ -8,7 +8,7 @@ The best minimal dark theme for VSCode with Vercel color palette
 
 Follow the following steps to install :
 
-1. Go to [VSCode Extensions](https://marketplace.visualstudio.com/items?itemName=achaq.vercel-theme)
+1. Go to [VSCode Extensions](https://marketplace.visualstudio.com/items?itemName=purpleblack.verceled-theme)
 2. Click Install
 3. Enjoy 🎉🎉!
 
