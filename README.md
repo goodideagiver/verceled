@@ -2,7 +2,23 @@
 
 The best minimal dark theme for VSCode with Vercel color palette
 
+## Screenshots
+
+### React
+
 ![Preview](/previews/react.png)
+
+### Typescript
+
+![Preview](/previews/ts.png)
+
+### CSS
+
+![Preview](/previews/css.png)
+
+### Rust
+
+![Preview](/previews/rust.png)
 
 ## Install
 
@@ -11,6 +27,15 @@ Follow the following steps to install :
 1. Go to [VSCode Extensions](https://marketplace.visualstudio.com/items?itemName=purpleblack.verceled-theme)
 2. Click Install
 3. Enjoy 🎉🎉!
+
+## Font used in screenshots
+
+[Rec Mono Casual](https://www.recursive.design/)
+
+```json
+"editor.fontFamily": "'Rec Mono Casual', monospace",
+"editor.fontLigatures": true,
+```
 
 ## Override the existing theme color
 
