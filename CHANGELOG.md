@@ -6,4 +6,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+1.2.0 - Change blue text colors to gray or pink, change activity bar icons to pink, change badge and button text colors to black for better contrast.
+
 1.1.0 - Increase border around editor visibility to match Vercel style
